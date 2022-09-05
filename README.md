@@ -42,4 +42,4 @@ $ npm run test:cov
 - run docker compose up <image-name> -d  ==> docker compose up dev-db -d
 
 
-time elapsed : 1:02:14
+time elapsed : 2:43:45
