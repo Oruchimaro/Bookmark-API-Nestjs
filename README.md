@@ -40,6 +40,3 @@ $ npm run test:cov
 
 - Setup docker-compose.yml
 - run docker compose up <image-name> -d  ==> docker compose up dev-db -d
-
-
-time elapsed : 2:43:45
